@@ -1,0 +1,20 @@
+.create-board {
+  background-color: rgba(97, 108, 111, 0.4);
+  transition: all 0.3s;
+}
+
+.create-board:hover {
+  color: white;
+  cursor: pointer;
+  background-color: #99aaab;
+  box-shadow: 0 20px 10px rgba(0, 0, 0, 0.2);
+  transform: scale(1.05);
+}
+
+.create-board:active {
+  cursor: pointer;
+  background-color: #616c6f;
+  color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+  transform: scale(1);
+}

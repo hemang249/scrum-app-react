@@ -1,0 +1,20 @@
+body {
+  background-color: #eaf0f1;
+}
+
+.register-container {
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 10px 0;
+  align-items: center;
+  justify-content: space-around;
+  display: flex;
+  float: none;
+}
+
+.register-form {
+  background-color: #3498db;
+  padding: 30px;
+  border-radius: 5px;
+}
