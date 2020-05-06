@@ -31,12 +31,6 @@ const BoardCard = (props) => {
             <Button onClick={onClick} variant="primary" block>
               View Board
             </Button>
-            <Button variant="danger" block>
-              Delete Board
-            </Button>
-            <Button variant="warning" block>
-              Update Board
-            </Button>
           </div>
         </Card.Body>
       </Card>

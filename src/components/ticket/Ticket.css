@@ -1,0 +1,19 @@
+.ticket-card {
+  width: 100%;
+  background-color: white;
+  height: auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ticket-card:hover {
+  background-color: #a4b0bd;
+  cursor: grab;
+}
+
+.ticket-card:active {
+  background-color: #a4b0bd;
+
+  cursor: grabbing;
+}

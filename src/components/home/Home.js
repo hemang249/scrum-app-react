@@ -73,6 +73,22 @@ const Home = (props) => {
           error: null,
         });
         setBoard(data.board);
+        const token = getToken();
+        const user = getUser();
+        getAllBoards(user._id, token)
+          .then((data) => {
+            console.log(data);
+            setState({
+              ...state,
+              loading: false,
+              success: true,
+              showModal: false,
+              name: "",
+              error: null,
+              boards: data.boards,
+            });
+          })
+          .catch((err) => console.log(err));
       })
       .catch((err) => {
         setState({

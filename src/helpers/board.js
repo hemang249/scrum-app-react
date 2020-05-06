@@ -25,6 +25,23 @@ export const createBoard = async (name, userId, token) => {
   }
 };
 
+export const updateBoard = async (board, userId, token) => {
+  try {
+    const res = await fetch(`${API}/board/${board._id}/${userId}`, {
+      method: "PUT",
+      headers: {
+        Accept: "application/json",
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${token}`,
+      },
+      body: JSON.stringify({ board }),
+    });
+    return await res.json();
+  } catch (err) {
+    return err;
+  }
+};
+
 export const getAllBoards = async (userId, token) => {
   try {
     const res = await fetch(`${API}/board/all/${userId}`, {
