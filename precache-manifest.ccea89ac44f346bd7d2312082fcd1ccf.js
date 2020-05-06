@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbe4072e754a6b59a3bf0d01fb69284b",
+    "revision": "8880ebd626b40c4a4b4c8f73c2000e23",
     "url": "/scrum-app-react/index.html"
   },
   {
