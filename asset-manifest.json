@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/scrum-app-react/static/css/main.ea588621.chunk.css",
-    "main.js": "/scrum-app-react/static/js/main.7ffda83a.chunk.js",
-    "main.js.map": "/scrum-app-react/static/js/main.7ffda83a.chunk.js.map",
+    "main.js": "/scrum-app-react/static/js/main.7ee9abd2.chunk.js",
+    "main.js.map": "/scrum-app-react/static/js/main.7ee9abd2.chunk.js.map",
     "runtime-main.js": "/scrum-app-react/static/js/runtime-main.f3a846ac.js",
     "runtime-main.js.map": "/scrum-app-react/static/js/runtime-main.f3a846ac.js.map",
-    "static/js/2.ddb8924f.chunk.js": "/scrum-app-react/static/js/2.ddb8924f.chunk.js",
-    "static/js/2.ddb8924f.chunk.js.map": "/scrum-app-react/static/js/2.ddb8924f.chunk.js.map",
+    "static/js/2.296549ad.chunk.js": "/scrum-app-react/static/js/2.296549ad.chunk.js",
+    "static/js/2.296549ad.chunk.js.map": "/scrum-app-react/static/js/2.296549ad.chunk.js.map",
     "index.html": "/scrum-app-react/index.html",
-    "precache-manifest.ccea89ac44f346bd7d2312082fcd1ccf.js": "/scrum-app-react/precache-manifest.ccea89ac44f346bd7d2312082fcd1ccf.js",
+    "precache-manifest.c42ad959816d2d65df04383dd76d043c.js": "/scrum-app-react/precache-manifest.c42ad959816d2d65df04383dd76d043c.js",
     "service-worker.js": "/scrum-app-react/service-worker.js",
     "static/css/main.ea588621.chunk.css.map": "/scrum-app-react/static/css/main.ea588621.chunk.css.map",
-    "static/js/2.ddb8924f.chunk.js.LICENSE.txt": "/scrum-app-react/static/js/2.ddb8924f.chunk.js.LICENSE.txt"
+    "static/js/2.296549ad.chunk.js.LICENSE.txt": "/scrum-app-react/static/js/2.296549ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f3a846ac.js",
-    "static/js/2.ddb8924f.chunk.js",
+    "static/js/2.296549ad.chunk.js",
     "static/css/main.ea588621.chunk.css",
-    "static/js/main.7ffda83a.chunk.js"
+    "static/js/main.7ee9abd2.chunk.js"
   ]
 }
