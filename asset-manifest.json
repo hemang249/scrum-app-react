@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scrum-app-react/static/css/main.ea588621.chunk.css",
+    "main.js": "/scrum-app-react/static/js/main.7ffda83a.chunk.js",
+    "main.js.map": "/scrum-app-react/static/js/main.7ffda83a.chunk.js.map",
+    "runtime-main.js": "/scrum-app-react/static/js/runtime-main.f3a846ac.js",
+    "runtime-main.js.map": "/scrum-app-react/static/js/runtime-main.f3a846ac.js.map",
+    "static/js/2.ddb8924f.chunk.js": "/scrum-app-react/static/js/2.ddb8924f.chunk.js",
+    "static/js/2.ddb8924f.chunk.js.map": "/scrum-app-react/static/js/2.ddb8924f.chunk.js.map",
+    "index.html": "/scrum-app-react/index.html",
+    "precache-manifest.059156e20a05791c9a9f33a4189d6c6c.js": "/scrum-app-react/precache-manifest.059156e20a05791c9a9f33a4189d6c6c.js",
+    "service-worker.js": "/scrum-app-react/service-worker.js",
+    "static/css/main.ea588621.chunk.css.map": "/scrum-app-react/static/css/main.ea588621.chunk.css.map",
+    "static/js/2.ddb8924f.chunk.js.LICENSE.txt": "/scrum-app-react/static/js/2.ddb8924f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3a846ac.js",
+    "static/js/2.ddb8924f.chunk.js",
+    "static/css/main.ea588621.chunk.css",
+    "static/js/main.7ffda83a.chunk.js"
+  ]
+}
